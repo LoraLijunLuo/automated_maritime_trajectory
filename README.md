@@ -30,6 +30,7 @@ This project automates the geospatial processing of maritime trajectory data usi
 
 ![Project Workflow](documentation/workflow.png)
 <p align="center"><em>Project Workflow</em></p>
+
 ![Screenshot of Output Map](documentation/output_map_example.png)
 <p align="center"><em>Screenshot of Output Map</em></p>
 
