@@ -28,8 +28,8 @@ This project automates the geospatial processing of maritime trajectory data usi
 - Color-coded route maps created in ArcGIS Pro for spatial interpretation
 - Invalid trajectories (e.g. land-crossing, irregular speeds) excluded from results
 
-![Project Workflow](documentation/fig1_workflow.png)
-![Screenshot of Output Map](documentation/output_map_example.jpg)
+![Project Workflow](documentation/workflow.png)
+![Screenshot of Output Map](documentation/output_map_example.pgn)
 
 ## 📚 What I Learned
 
